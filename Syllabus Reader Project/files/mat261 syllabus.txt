@@ -1,0 +1,247 @@
+MAT 261: Calculus II
+BASIC INFORMATION
+Course title: Calculus II
+Course number: MAT 261, Section 1
+Number of credits: 4
+Term and year: Fall 2024
+Instructor’s name: Netra Khanal
+Office location: SC 244
+Office hours: MWF from 9:00 to 9:45 am
+Contact information
+Telephone: 813-257-3650
+E-mail: nkhanal@ut.edu
+Course prerequisites: Calculus I, MAT 260 or equivalent
+Course times and location:
+Days of Week: Monday, Wednesday, and Friday
+Time: 2:30 to 3:40 pm
+Location: SFB 288
+BRIEF DESCRIPTION OF THE COURSE
+MAT 261 is a continuation of the calculus sequence. We begin with a review of integration
+techniques from Calculus I and cover chapters 5-10 of the text. This course covers advanced
+integration techniques and applications, parametric and polar curves, sequences, and infinite series.
+COURSE LEARNING OUTCOMES
+After the successful completion of this course, each student will:
+1. be able to find the integral of functions using advanced techniques of integration including
+integration by parts, trigonometric integration, trigonometric substitution, partial fractions,
+approximate integration, and improper integrals.
+2. apply integration concepts by using them to compute areas between curves, volumes by
+slicing, volumes by cylindrical shells, arc length, area of a surface of revolution, and work.
+3. analyze the convergence of sequences and infinite series and use them to evaluate integrals.
+4. describe curves using parametric equations and polar coordinates and will apply the methods
+of calculus to these curves.
+1TEXT AND MATERIALS
+Textbook Title: “University Calculus: Early Transcendentals
+ISBN: 9780 1349 95540
+Edition: Fourth
+Year: 2019
+Publisher: Pearson
+Available: UT Bookstore, Amazon, and other retail booksellers.
+Graphing Calculator: I will be using Graphing Calculator TI83 plus for class demonstrations.
+It will be helpful if you also have one of your own. Other types of graphing calculator may be
+used.
+Mymathlab: Mymathlab is an online homework system offered by the publisher. You can create
+your account and buy the access code online or use the access code that you buy from the book
+store. The course ID is: khanal22730 .
+HOMEWORK
+The homework is an extremely important part of the course. There will be online homework
+for every section we cover. The maximum possible points for the online homework is 100. The
+Computer does not award partial credit, so I encourage you to work well before you choose and
+write your solution in computer. I encourage you to work together if you find it helpful. In order
+to be successful in learning the material and doing well on the examinations, you must think very
+hard about the problems yourself before discussing them with anyone else.
+QUIZZES
+Each student may earn quizzes score of up to 100 points by taking in-class/online quizzes. Some of
+the quiz problems will be based on homework problems. The dates of these quizzes are mentioned
+inthe class schedule attached with this syllabus.
+GRADING
+The course grade will be based on a total of 600 points composed of 300 points for the three
+mid-term exams, 100 points for the final exam, 100 points for the online homework and 100 points
+for the in-class/online Quizzes. Letter grades will be assigned as follows:
+•92% and above: A •88%-91%: AB
+•82%-87%: B •78%-81%: BC
+•72%-77%: C •68%-71%: CD
+•60%-67%: D •Below 59%: F
+2ATTENDANCE POLICY AND EXTRA CREDIT
+I expect you to attend every class session. Experience has shown a definite correlation between
+poor class attendance and low grades. I will value your attendance and participation for the class.
+You will obtain 6 points at most for the attendance. Each absence will result in the attendance
+score decreasing by 2 points. Your attendance score will be used as an extra credit.
+MAKEUP EXAMS AND QUIZZES
+Makeup exams will be given only for very serious and unavoidable conflicts or emergencies and only
+if your request to present a make-up examination is approved by your instructor IN ADVANCE.
+At the instance that a make-up examination is appropriate, it will be given within a week and is
+typically more difficult than that of the scheduled exam. There is NO any makeup for the missed
+quiz.
+EXAM SCHEDULE
+Term Exams: Three one hour exams worth 100 points each will be given as follows:
+•Exam I on Monday, September 30, 2024,
+•Exam II on Friday, November 1, 2024,
+•Exam III on Monday, November 25, 2024,
+Final Exam: A comprehensive final exam will be given on Wednesday,December 11, 2024 from
+3:45 to 5:45 pm at SFB 288.
+UNIVERSITY OF TAMPA COURSE POLICIES
+Syllabus Subject to Change: This syllabus is informational in nature and is not an express
+or implied contract. It is subject to change due to unforeseen circumstances, as a result of any
+circumstance outside the University’s control, or as other needs arise. If, in the University’s sole
+discretion, public health conditions or any other matter affecting the health, safety, upkeep or
+wellbeing of our campus community or operations requires the University to make any syllabus
+or course changes or move to remote teaching, alternative assignments may be provided so that
+the learning objectives for the course, as determined by the University, can still be met. The
+University does not guarantee that this syllabus will not change, nor does it guarantee specific
+in-person, on-campus classes, activities, opportunities, or services or any other particular format,
+timing, or location of education, classes, activities, or services.
+Title IX & Reporting Sexual Misconduct: Sexual misconduct, including, but not limited
+to: acts of sexual harassment, nonconsensual sexual intercourse, nonconsensual sexual contact,
+dating violence, domestic violence, stalking, gender-based harassment or sexual exploitation are
+prohibited by Title IX, the Student Code of Conduct and other University policies. The University
+strives to maintain a safe and nondiscriminatory campus community, and to do so, it is important
+for the Spartan community to report any safety concerns, such as acts of sexual misconduct. If
+you experience or witness any of these University prohibited actions, the University encourages
+3reporting these matters, so that the University is able to take prompt action to stop, prevent and
+remedy the effects of the harassment. University resources and grievance procedure information
+will be provided to individuals who may seek services or redress.
+There are many options to making a Title IX/Sexual Misconduct report. You may report this in-
+formation through the University’s online Title IX Report form. The information will be forwarded
+and reviewed by the Title IX Coordinator or a Title IX Deputy Coordinator, who will contact
+you to provide further information on University grievance procedure options and resources that
+are available.
+You may also make a direct report by contacting the University’s Title IX Coordinator:
+Kelsey San Antonio, Title IX Coordinator
+Southard Family Building Suite #266
+(KSanAntonio@ut.edu) (813)-257-3748
+If you decide to discuss an incident with your course professor, it is important to note that they
+are considered a Responsible Employee, and are obligated to report the information you share to
+the University’s Title IX Coordinator.
+If you are not ready to disclose or report this information to the University, you may disclose the
+information to a confidential party, such as a Victim Advocate, or a Counselor or Health Clinician
+at the Student Health and Wellness Center, to discuss any further options and resources available
+before making a decision to report.
+•The Victim’s Advocacy Hotline: (victimadvocacy@ut.edu) (813)257-3900.
+•Counseling Center (counselingservices@ut.edu) (813)253-6250.
+• Student Health - Medical Services (healthcenter@ut.edu) (813)253-6250
+For more information, see The University of Tampa’s Title IX webpage and the Student Code of
+Conduct webpage.
+Students with disabilities: If you require accommodations because of a disability, please call
+(813) 257-5757 or e-mail accessibility.services@ut.edu for information on registering with Student
+Disability Services. You can also submit your request for accommodations and supporting doc-
+umentation via an Accommodation Request. Please feel free to discuss this with me in private
+for more information. If you encounter disability-related barriers accessing the online content
+for this course, please contact Sharon Austin, Academic Technology Accessibility Specialist, at
+saustin@ut.edu. If the initial access to the content cannot be resolved, the university will provide
+individuals with disabilities access to, and use of, information and data by an alternative means
+that meets the identified needs.
+Course interruption due to adverse conditions: In case of any adverse condition or situation
+which could interrupt the schedule of classes, each student is asked to access UT Homepage for
+information about the status of the campus and class meetings. In addition, please refer to UT
+Blackboard for announcements and other important information. You are responsible for access-
+ing this information.
+Academic Integrity Statement: The University of Tampa is committed to the development of
+each student to become a productive and responsible citizen who embraces the values of honesty,
+trust, fairness, respect, and responsibility. Upholding academic integrity and promoting an ethical
+standard that does not condone academic misconduct is an important demonstration of these val-
+ues and underpins how we live and learn in a community of inquiry. Students are expected to act
+ethically in the pursuit of their education and to avoid behaviors that run counter to participation
+4in and demonstration of their learning. The Academic Integrity Policy lists several common types
+of violations related to cheating, unauthorized collaboration or assistance, plagiarism, and more.
+While the policy lists common violations and examples, it is not an exhaustive list and instructors
+may identify other types of conduct that impacts their ability to evaluate what has been learned
+substantively enough to constitute a violation of this policy. An instructor may impose a wide
+range of sanctions for academic integrity violations from completing a more difficult replacement
+assignment to an F in the course. Particularly severe violations or multiple violations throughout
+a student’s academic career may result in suspension or expulsion from the University.
+Attendance Policy and Excused Absences: The University of Tampa has a General At-
+tendance Policy in the Catalog. As stated, students are expected to attend class and academic
+programs and individual faculty may require specified levels of attendance for successful com-
+pletion of a course. However, the University has identified specific types of absences as either
+excused or unexcused absences. Students should be aware of each type of absence and the impact
+on their ability to complete work that was missed during their absence. Faculty must be notified
+of scheduled excused absences in advance in order for students to receive accommodation for work
+missed. The type of absence must fall within the categories specified in the catalog and the faculty
+member may determine how far in advance notification must be provided.
+Certain types of unscheduled absences may also qualify as excused. Faculty may require docu-
+mentation or verification. This would include isolation or quarantine due to COVID. The policy
+requires faculty to accommodate excused absences, including graded work, in a fair manner. This
+is determined by the faculty member and is dependent on the structure of the course and what
+work was missed. This may include replacement of work with something equivalent or having
+the work excluded from the student’s grade. Faculty are NOT required or expected to provide
+accommodation through remote access to the class or by providing a recording of the class session.
+Faculty may determine that a student has missed too much participant-dependent work to suc-
+cessfully accomplish learning outcomes, even if the absences meet the criteria for excused absences.
+Faculty are not required to allow a student to make up work missed due to unexcused absences.
+Class Disruption Statement: Every student has the right to a comfortable learning environ-
+ment where the open and honest exchange of ideas may freely occur. Each student is expected to
+do his or her part to ensure that the classroom (and anywhere else the class may meet) remains
+conducive to learning. This includes respectful and courteous treatment of all in the classroom.
+According to the terms of the University of Tampa Disruption Policy, the professor will take
+immediate action when inappropriate behavior occurs. Details of the policy may be found at
+Disruption of the Academic Process.
+Academic Support – UT Center for Mathematics The UT Center for Mathematics, located
+in MKE 118, offers open tutoring hours for students of all levels and abilities. The Center for Math-
+ematics is open for drop-in tutoring for this course with no appointment necessary. Please visit to
+the Math Center website (https://www.ut.edu/academics/college-of-social-sciences-mathematics-
+and-education/mathematics-degrees/ut-center-for-mathematics) for tutoring hours for this course.
+5SCHEDULE FOR MAT 261
+Week Date Section Exams Exercise Problems Quiz
+1 Aug 26 Intro, Review 5.5
+Aug 28 Review 5.6
+Aug 30 6.1
+2 Sep 2 Labor Day
+Sep 4 6.1/6.2
+Sep 6 6.2/6.3 Quiz 1
+3 Sep 9 6.3
+Sep 11 6.4
+Sep 13 6.5 Quiz 2
+4 Sep 16 7.1
+Sep 18 7.2
+Sep 20 7.2/7.3 Quiz 3
+5 Sep 23 7.3/8.1
+Sep 25 8.1
+Sep 27 Review for Exam I
+6 Sep 30 Exam I
+Oct 2 8.2
+Oct 4 8.2/8.3
+7 Oct 7 8.3/8.4
+Oct 9 8.4/8.6
+Oct 11 8.6 Quiz 4
+8 Oct 14 8.7
+Oct 16 9.1
+Oct 18 9.2 Quiz 5
+9 Oct 21 9.3
+Oct 23 9.4
+Oct 25 9.5 Quiz 6
+10 Oct 28 9.6
+Oct 30 Review Exam II
+Nov 1 Exam II
+11 Nov 4 9.7
+Nov 6 9.7/9.8
+Nov 8 9.8
+12 Nov 11 9.9
+Nov 13 9.10
+Nov 15 10.1 Quiz 7
+6Week Date Section Exams Exercise Problems Quiz
+13 Nov 18 10.2
+Nov 20 10.3
+Nov 22 Review Exam III
+14 Nov 25 Exam III
+Nov 27 Thanksgiving
+Nov 29 Thanksgiving
+15 Dec 5 10.4
+Dec 7 10.5
+Dec 9 Review for Final
+16 Dec 11 Final Exam 3:45-5:45pm
+Exams I, II and III will cover the following chapters tentatively.
+•Exam I (Chapters 5.5-5.6, 6, 7, 8.1)
+•Exam II (Rest of chapter 8 and parts of chapter 9)
+•Exam III (Rest of chapters 9 and parts of chapter 10)
+Note: The final exam is comprehensive.
+IMPORTANT DATES
+Last day to add/drop a course: September 1 (before 3pm)
+Last day to withdraw with 50% tuition credit: September 13
+Last day to withdraw with a “W” grade: November 4
+Thanksgiving break: November 27- December 1
+Final Exams: Dec 9-12
+A FINAL NOTE
+I am genuinely committed to your success in Calculus II this semester and care about your general welfare. I hope
+you will take advantage of my open invitation to see me whenever I can be of help to you.
+Note: Any changes in this syllabus will be communicated to you in class by the instructor .
+7
