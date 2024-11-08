@@ -5,8 +5,11 @@ The program is still unfinished but it is near completion.
 
 What I Learned:
 - I learned how to use several Python libraries including os, regex, pypdf, pandas, and tabulate
-- I learned how to use programming to solve real-world problems and create something that I would use in the real world.
-- Learned a lot about teaching myself topics and how to affectively learn programing by myself.
+- I learned how to use programming to solve real-world problems and create something I would use in the real world.
+- I learned a lot about teaching myself topics and how to learn programming by myself effectively.
 - I learned how to debug, troubleshoot, and to accept the fact that things won't always work right away.
 - I learned how to parse through large amounts of data.
+
+Final Output:
+Schedule.txt
 
